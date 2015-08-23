@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Extension-Name: binaryops
+Class-Manager: org.nlogo.extensions.binaryops.BinaryOpsExtension
+NetLogo-Extension-API-Version: 5.0
